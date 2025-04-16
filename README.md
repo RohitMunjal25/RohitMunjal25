@@ -11,3 +11,5 @@ HTML || TALWIND CSS || JS || JAVA || MYSQL || C || C++ || PYTHON || REACT || NOD
 
 📬 Let’s Connect:
 I’m always excited to connect with like-minded professionals and explore new opportunities. Feel free to reach out!
+
+You can reach me by linkedin : https://www.linkedin.com/in/rohit-munjal-7b453b29a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSsGFvVJ0QLSvrDcWO0x9hw%3D%3D
